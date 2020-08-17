@@ -1,8 +1,8 @@
 # xenin-coinflip
-This is an unofficial repository made regarding the Xenin Coinflip script.  
+This is an unofficial repository made regarding the Xenin Coinflip script and custom systems made by community.
 
 ## Original script
-Only edited files will be uploaded there, this means this won't be functional if you do not own original ones.  
+Only edited files will be uploaded there, this means this won't be functional if you do not own all original ones.  
 Please, before doing anything, buy it here : https://www.gmodstore.com/market/view/xenin-coinflip.  
 This is not a leak or whatever, don't expect those things from me.  
 
