@@ -24,18 +24,6 @@ cfg:SetMaxCoinflips(3)
 --[[
 	Hello there !
 	Here's the files that should be replaced : config.lua / config_wrapper.lua / server.lua / games.lua
-
-	Because Xenin is Xenin, I was too lazy to create a VIP Ranks table
-	You can wait for the official integration by Xenin Team if thats coming one day 
-
-	Or you can go to lua/coinflip/networking/server.lua & lua/coinflip/ui/games.lua and do :
-		server.lua : edit line 44 and 49 (the two 'if' statements)
-		games.lua : edit line 48 / 62 / 82 / 91 (the four 'if' statements)
-	Thats it !
-
-	You can also try from your own to create a table
-	That should not be that hard, except if you want to go through their config_wrapper
-
 	Thanks for using this and good game ! (hope you will earn a lot of money thanks to this)
 ]]
 
