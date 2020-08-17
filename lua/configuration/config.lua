@@ -14,7 +14,7 @@ cfg:SetChatPrefix("[COINFLIP] ")
 cfg:SetMinBet(100)
 
 -- What is the maximum amount someone can bet?
-cfg:SetMaxBet(1000000)
+cfg:SetMaxBet(10000)
 
 -- How many coinflips can a user have active at once?
 cfg:SetMaxCoinflips(3)
@@ -43,7 +43,7 @@ cfg:SetMaxCoinflips(3)
 cfg:SetMaxVIPCoinflips(6)
 
 -- What should it say in the top left of the menu?
-cfg:SetMenuTitle("Waurum - Coinflips")
+cfg:SetMenuTitle("Xenin - Coinflips")
 
 -- What text should be in the overhead of the NPC?
 cfg:SetNPCTitle("Coinflip NPC")
@@ -73,7 +73,7 @@ cfg:SetSeedRegularly(false)
 -- What currency should coinflips pre v2 be?
 -- If you have never had a coinflip in your database before v2 this will do literally nothing.
 -- If not, make sure it's the right currency.
-cfg:SetOldCurrency("Pointshop 2")
+cfg:SetOldCurrency("DarkRP")
 
 -- What currency?
 -- Supports:
@@ -83,7 +83,7 @@ cfg:SetOldCurrency("Pointshop 2")
 ------
 -- You can make this a table, i.e { "DarkRP", "Pointshop" } to have multiple currencies
 -- To make it a single currency, just have it "DarkRP"
-cfg:SetCurrency("Pointshop 2")
+cfg:SetCurrency("DarkRP")
 
 /*
 	Set the language!
