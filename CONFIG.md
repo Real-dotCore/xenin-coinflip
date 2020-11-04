@@ -1,4 +1,4 @@
-# Last update : 18.08 at 00:16 by dotCore    
+# Last update : 04.11 at 09:20 by dotCore    
   
 ## How to change "vip" ranks ?    
 1) Go in lua/coinflip/networking/server.lua  
